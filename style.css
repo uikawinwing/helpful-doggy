@@ -1,0 +1,7 @@
+#helpful-doggy-settings { order: 50; }
+.helpful-doggy-card { display: flex; flex-direction: column; gap: 0.6rem; padding: 0.75rem; }
+.helpful-doggy-title { font-weight: 700; font-size: 1.05rem; }
+.helpful-doggy-note { opacity: 0.8; font-size: 0.9rem; }
+.helpful-doggy-card label { display: flex; flex-direction: column; gap: 0.25rem; }
+#helpful-doggy-results { display: flex; flex-direction: column; gap: 0.25rem; }
+.helpful-doggy-result { font-size: 0.9rem; overflow-wrap: anywhere; }

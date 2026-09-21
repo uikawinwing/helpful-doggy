@@ -1,0 +1,11 @@
+{
+  "display_name": "Helpful Doggy",
+  "loading_order": 50,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "uikawinwing",
+  "version": "0.1.0",
+  "homePage": "https://github.com/uikawinwing/helpful-doggy"
+}
